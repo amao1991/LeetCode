@@ -10,7 +10,7 @@ Find the letter that was added in t.
 
 ## Example
 
-```python
+```
 Input:
 s = "abcd"
 t = "abcde"
