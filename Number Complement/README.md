@@ -29,8 +29,10 @@ Explanation: The binary representation of 1 is 1 (no leading zero bits), and its
 ```
 
 ## 筆記
+python
 
 ```python
+
 ans = ['0', '1', '0']
 
 ans = ''.join(ans)  # 010
