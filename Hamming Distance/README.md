@@ -8,10 +8,6 @@ The [Hamming distance](https://www.wikiwand.com/en/Hamming_distance) between two
 
 Given two integers `x` and `y`, calculate the Hamming distance.
 
-**Note:**
-
-$0 <= x$, $y < 2^31$
-
 **Example**
 
 ```
@@ -36,3 +32,13 @@ The above arrows point to positions where the corresponding bits are different.
 * 1011101與1001001之間的漢明距離是2。
 * 2143896與2233796之間的漢明距離是3。
 * "toned"與"roses"之間的漢明距離是3。
+
+## Note
+
+**count()**
+
+```
+str.count('sub')
+```
+
+計算字串 str 中，sub 出現的次數
